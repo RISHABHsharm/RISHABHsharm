@@ -8,13 +8,15 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rishabh-sharma-31081997/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rishabhsharma3108/)
 
-:wave: Hi there, My name is Rishabh Mishra.😀 I'm 23 years old, I'm a self-taught Data Scientist.
-I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
-Currently, I completed Undergraduate in CSE from :india:. 
-I'm interested in doing research on text and image related problems. 
-I love to work with new technologies and playing with Data and AI.🤖
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RishabhMishra76" alt="RishabhMishra76" /> </p>
+:wave: Hi there, My name is Rishabh Sharma 😀. I'm 24 years old software developer.
+I've knowledge in different fields of computer science that are web development, mobile development and machine learning.  
+I have completed Undergraduate in CSE in 2020 from :india: . 
+I'm interested in doing challenging projects realted to the above mentioned field. 
+I love to work with new technologies of web and mobile development and playing with Data and AI.🤖
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHABHsharm" alt="RISHABHsharm" /> </p>
+
 ## {...} My Stack
+
 ```json
 {
    "languages": ["Python", "Java","JavaScript"],
@@ -26,6 +28,9 @@ I love to work with new technologies and playing with Data and AI.🤖
    "experimenting": ["Django", "Heroku"]
 }
 ```
+
+## :tada: My Github Stats
+
 
 <p align="left">
   <a href="https://github.com/RISHABHsharm"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RISHABHsharm&layout=compact&theme=radical" />
