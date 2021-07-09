@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome To My Github Account!!!</h1>
 
-<a target="_blank" href="https://github.com/RISHABHsharm/"><img width="500" height="350" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU"></a>
+<a target="_blank" href="https://github.com/RISHABHsharm/"><img width="500" height="400" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU"></a>
 # Rishabh Sharma
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rishabhsharma3108@gmail.com?subject=From%20GitHub&cc=rishabhsharma31081997@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
@@ -8,11 +8,11 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rishabh-sharma-31081997/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rishabhsharma3108/)
 
-:wave: Hi there, My name is Rishabh Sharma 😀. I'm 24 years old software developer.<br/>
--I've knowledge in different fields of computer science that are web development, mobile development and machine learning.</br>  
--I have completed Undergraduate in CSE in 2020 from :india:.<br/>
--I'm interested in doing challenging projects realted to the above mentioned field.</br> 
--I love to work with new technologies of web and mobile development and playing with Data and AI.🤖<br/>
+- :wave: Hi there, My name is Rishabh Sharma 😀. I'm 24 years old software developer.<br/>
+- I've knowledge in different fields of computer science that are web development, mobile development and machine learning.</br>  
+- I have completed Undergraduate in CSE in 2020 from :india:.<br/>
+- I'm interested in doing challenging projects realted to the above mentioned field.</br> 
+- I love to work with new technologies of web and mobile development and playing with Data and AI.🤖<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHABHsharm" alt="RISHABHsharm" /> </p>
 
 ## {...} My Stack
