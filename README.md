@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome To My Github Account!!!</h1>
 
-<a target="_blank" href="https://github.com/RISHABHsharm/"><img width="500" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU"></a>
+<a target="_blank" href="https://github.com/RISHABHsharm/"><img width="500" height="500" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU"></a>
 # Rishabh Sharma
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rishabhsharma3108@gmail.com?subject=From%20GitHub&cc=rishabhsharma31081997@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
