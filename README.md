@@ -24,12 +24,12 @@ I love to work with new technologies of web and mobile development and playing w
    "frontend": ["html", "css","React","Angular"],
    "databases": ["mysql","mongoDB"],
    "ai framework":["Keras","Scikit-learn"],
-   "mobile development": ["React-Native","Flutter"]
+   "mobile development": ["React-Native","Flutter"],
    "experimenting": ["Django", "Heroku"]
 }
 ```
 
-## :tada: My Github Stats
+## My Github Stats :tada: 
 
 
 <p align="left">
