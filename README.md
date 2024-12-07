@@ -8,24 +8,23 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rishabh-sharma-31081997/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/rishabhsharma3108/)
 
-- :wave: Hi there, My name is Rishabh Sharma 😀. I'm 24 years old software developer.<br/>
-- I've knowledge in different fields of computer science that are web development, mobile development and machine learning.</br>  
-- I have completed Undergraduate in CSE in 2020 from :india:.<br/>
-- I'm interested in doing challenging projects realted to the above mentioned field.</br> 
-- I love to work with new technologies of web and mobile development and playing with Data and AI.🤖<br/>
+- :wave: Hi there, My name is Rishabh Sharma 😀. Working as a software developer.<br/>
+- I have experience in developing web and mobile applications.</br>  
+- I completed an Undergraduate in CSE in 2020 from :india:.<br/>
+- I'm interested in doing challenging projects related to the above-mentioned fields.</br> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHABHsharm" alt="RISHABHsharm" /> </p>
 
 ## {...} My Stack
 
 ```json
 {
-   "languages": ["Python", "Java","JavaScript"],
+   "languages": ["JavaScript", "Python","C++"],
    "backend": ["Django","Node.js"],
-   "frontend": ["html", "css","React","Angular"],
-   "databases": ["mysql","mongoDB"],
+   "frontend": ["HTML", "CSS","React","Vue", "Next.js"],
+   "databases": ["mysql"],
    "ai framework":["Keras","Scikit-learn"],
-   "mobile development": ["React-Native","Flutter"],
-   "experimenting": ["Django", "Heroku"]
+   "mobile development": ["React-Native"],
+   "experimenting": ["Django", "Flutter"]
 }
 ```
 
