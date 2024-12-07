@@ -9,7 +9,7 @@
 
 - :wave: Hi there, My name is Rishabh Sharma 😀. Working as a software developer.<br/>
 - I have experience in developing web and mobile applications.</br>  
-- I completed an Undergraduate in CSE in 2020 from :india:.<br/>
+- I completed an Undergraduate in CSE in 2020 in :india:.<br/>
 - I'm interested in doing challenging projects related to the above-mentioned fields.</br> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHABHsharm" alt="RISHABHsharm" /> </p>
 
