@@ -17,12 +17,12 @@
 
 ```json
 {
-   "languages": ["JavaScript", "Python","C++"],
-   "backend": ["Django","Node.js"],
-   "frontend": ["HTML", "CSS","React","Vue", "Next.js"],
-   "databases": ["mysql"],
-   "ai framework":["Keras","Scikit-learn"],
-   "mobile development": ["React-Native"],
+   "languages": ["JavaScript", "Python", "C++"],
+   "backend": ["Node.js"],
+   "frontend": ["HTML", "CSS", "React", "Vue", "Next.js"],
+   "databases": ["MySQL"],
+   "AI framework":["Keras","Scikit-learn"],
+   "Mobile development": ["React-Native"],
    "experimenting": ["Django", "Flutter"]
 }
 ```
