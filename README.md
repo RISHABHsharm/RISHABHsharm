@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome To My Github Account!!!</h1>
 
-<a target="_blank" href="https://github.com/RISHABHsharm/"><img width="500" height="400" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU"></a>
+<a target="_blank" href="https://github.com/RISHABHsharm/"><img width="500" height="400" align="right" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgJTmmX_GzSVXYpk_ivxLC7QjyxUqLPm37Q&usqp=CAU](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk)"></a>
 # Rishabh Sharma
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rishabhsharma3108@gmail.com?subject=From%20GitHub&cc=rishabhsharma31081997@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
@@ -9,8 +9,8 @@
 
 - :wave: Hi there, My name is Rishabh Sharma 😀. Working as a software developer.<br/>
 - I have experience in developing web and mobile applications.</br>  
-- I completed an Undergraduate in CSE in 2020 in :india:.<br/>
-- I'm interested in doing challenging projects related to the above-mentioned fields.</br> 
+- I completed an Undergraduate in CSE in 2020 in : India:.<br/>
+- I'm interested in doing challenging projects related to the fields as mentioned earlier.</br> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RISHABHsharm" alt="RISHABHsharm" /> </p>
 
 ## {...} My Stack
